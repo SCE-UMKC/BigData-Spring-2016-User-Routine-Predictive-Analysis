@@ -1,0 +1,19 @@
+
+apply plugin: 'android'
+
+
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.alchemyapi.android"
+        minSdkVersion 15
+        targetSdkVersion 19
+
+    }
+}
+
+
+
